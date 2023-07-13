@@ -1,0 +1,29 @@
+.card{
+    border: none;
+    width: 400px;
+    border-radius: 20px;
+    background-color: lightgreen;
+    padding: 100px 40px;
+    margin: 100px auto;
+}
+
+.title{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+}
+
+.text{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    padding-bottom: 20px;
+}
+
+.btn{
+    border: none;
+    padding: 13px 40px;
+    border-radius: 25px;
+    background-color: white;
+    color: black;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
