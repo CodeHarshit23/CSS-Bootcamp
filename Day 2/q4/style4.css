@@ -30,7 +30,7 @@
 .name {
     position: absolute;
     left: 128px;
-    top: 230px;
+    top: 250px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
     font-size: 23px;
@@ -38,7 +38,7 @@
 
 .desgn {
     position: absolute;
-    top: 275px;
+    top: 285px;
     left: 45px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: gray;
